@@ -44,4 +44,4 @@ It's a great beginner-friendly project that demonstrates fundamental C concepts 
 1. **Clone or download** the repository.
 2. Compile the program using a C compiler:
    ```bash
-   gcc quiz_game.c -o quiz_game
+   gcc Main.c -o Main
