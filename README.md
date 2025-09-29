@@ -33,15 +33,9 @@ It's a great beginner-friendly project that demonstrates fundamental C concepts 
 - 🧰 Compiler: GCC / Any standard C compiler
 
 ---
-
-## 📂 Project Structure
-
-
----
-
 ## 🧪 How to Run
 
 1. **Clone or download** the repository.
 2. Compile the program using a C compiler:
    ```bash
-   gcc Main.c -o Main
+   gcc Main.c -o Main 
